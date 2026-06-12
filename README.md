@@ -9,9 +9,14 @@
 <br />
 <br />
 
+<img width="100%" src="./assets/ai-control-room.svg" alt="Animated AI Builder Lab banner" />
+
+<br />
+<br />
+
 <img src="https://img.shields.io/badge/Mode-Learning%20in%20Public-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Learning in public" />
-<img src="https://img.shields.io/badge/College-Dronacharya%20College%20of%20Engineering-4F46E5?style=for-the-badge&logo=academia&logoColor=white" alt="College" />
-<img src="https://img.shields.io/badge/Focus-AI%20Products%20%26%20SDE-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="Focus" />
+<img src="https://img.shields.io/badge/Base-Hyderabad-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Hyderabad base" />
+<img src="https://img.shields.io/badge/Focus-AI%20Products%20%7C%20Full%20Stack%20%7C%20SDE-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="Focus" />
 
 <br />
 <br />
@@ -25,7 +30,7 @@
 <a href="https://github.com/ANSHUL-REAL">
   <img src="https://img.shields.io/badge/GitHub-ANSHUL--REAL-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<img src="https://img.shields.io/badge/Location-Gurugram%2C%20Haryana-312E81?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Location-Hyderabad-312E81?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 
 <br />
 <br />
@@ -46,6 +51,7 @@ identity:
   name: "Anshul Nautiyal"
   handle: "ANSHUL-REAL"
   role: "Student Developer | AI/ML Builder | Future SDE"
+  location: "Hyderabad"
   email: "anshulnautiyal51@gmail.com"
   linkedin: "linkedin.com/in/anshul-nautiyal-42760236b"
 
