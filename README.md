@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4c1d95,45:6d28d9,75:7c3aed,100:2563eb&text=Anshul%20Nautiyal&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4c1d95,45:6d28d9,75:7c3aed,100:2563eb&text=Anshul%20Nautiyal&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Eager%20to%20learn%20and%20build%20%7C%20Wannabe%20SDE%20%7C%20AI%2FML%20Builder&descAlignY=58&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+AI-powered+software+with+production+discipline;Designing+full-stack+products+that+scale;Turning+research%2C+automation%2C+and+systems+into+real+apps" alt="Typing SVG" />
@@ -9,18 +9,18 @@
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/Academic-Computer%20Science%20%26%20Engineering-6D28D9?style=for-the-badge&logo=academia&logoColor=white" alt="Academic badge" />
+<img src="https://img.shields.io/badge/Academic-Dronacharya%20College%20of%20Engineering-6D28D9?style=for-the-badge&logo=academia&logoColor=white" alt="Academic badge" />
 <img src="https://img.shields.io/badge/Focus-AI%2FML%20Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI ML badge" />
 <img src="https://img.shields.io/badge/Mindset-Product%20Engineering-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Product engineering badge" />
 
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/Location-India-312E81?style=flat-square&logo=googlemaps&logoColor=white" alt="Location badge" />
+<img src="https://img.shields.io/badge/Location-Gurugram%2C%20Haryana-312E81?style=flat-square&logo=googlemaps&logoColor=white" alt="Location badge" />
 <a href="https://github.com/ANSHUL-REAL/website">
   <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio button" />
 </a>
-<a href="https://www.linkedin.com/in/anshul-nautiyal/">
+<a href="https://in.linkedin.com/in/anshul-nautiyal-b9b8b6298">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn button" />
 </a>
 <a href="mailto:anshulnautiyal2006@gmail.com">
@@ -36,6 +36,7 @@
 <img src="https://komarev.com/ghpvc/?username=ANSHUL-REAL&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile views badge" />
 <img src="https://img.shields.io/github/followers/ANSHUL-REAL?label=Followers&style=flat-square&color=6d28d9&logo=github" alt="Followers badge" />
 <img src="https://img.shields.io/github/stars/ANSHUL-REAL?label=Stars&style=flat-square&color=4f46e5&logo=github" alt="Stars badge" />
+<img src="https://img.shields.io/github/actions/workflow/status/ANSHUL-REAL/ANSHUL-REAL/snake.yml?branch=main&label=Snake%20Animation&style=flat-square&color=7c3aed" alt="Snake animation workflow status" />
 
 </div>
 
@@ -43,9 +44,9 @@
 
 ## About
 
-I am **Anshul Nautiyal**, a software engineering focused builder working across **AI/ML systems**, **full-stack product development**, and **automation-first engineering**. I care about shipping products that are not only impressive in demos, but also understandable, secure, maintainable, and useful in real workflows.
+I am **Anshul Nautiyal**, a Dronacharya College of Engineering student who is **eager to learn and build** while growing toward a strong software development engineering career. I work across **AI/ML systems**, **full-stack product development**, and **automation-first engineering**, with a focus on practical projects that solve real problems.
 
-My work sits at the intersection of intelligent applications and practical product engineering: retrieval systems, AI assistants, healthcare tools, developer platforms, security utilities, dashboards, and modern web experiences. I like designing systems from the first model or API call all the way to the user interface, deployment path, and measurable product outcome.
+My work sits at the intersection of intelligent applications and practical product engineering: retrieval systems, AI assistants, healthcare tools, developer platforms, security utilities, dashboards, and modern web experiences. I like taking ideas from first prototype to usable product, learning in public, and improving through real builds.
 
 **Open To**
 
@@ -54,7 +55,7 @@ My work sits at the intersection of intelligent applications and practical produ
 | Software Engineering | Full-stack engineering, backend systems, product platforms |
 | AI/ML Engineering | RAG apps, LLM tools, intelligent automation, applied ML products |
 | Open Source | Developer tools, AI utilities, security-focused projects |
-| Collaboration | Internships, research engineering, hackathons, startup-style builds |
+| Collaboration | Internships, student projects, research engineering, hackathons, startup-style builds |
 
 ---
 
@@ -245,11 +246,11 @@ FlowLang shows the systems side of my engineering mindset: not just building app
 
 ## Experience
 
-### Software Engineer & AI/ML Builder
+### Student Developer & AI/ML Builder
 **Independent Projects, Open Source, and Product Engineering**  
 **2025 - Present**
 
-I build end-to-end software products across AI assistants, healthcare applications, cybersecurity utilities, RAG systems, and developer tools. My work emphasizes clean architecture, practical UX, strong GitHub presentation, and the ability to take ideas from early concept to usable implementation.
+I build end-to-end software projects across AI assistants, healthcare applications, cybersecurity utilities, RAG systems, and developer tools. My work emphasizes practical learning, clean implementation, readable documentation, strong GitHub presentation, and the ability to take ideas from early concept to usable implementation.
 
 **Scope of Work**
 
@@ -283,25 +284,19 @@ I build end-to-end software products across AI assistants, healthcare applicatio
 
 ## Certifications
 
-### AWS
+<div align="center">
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Foundations" />
-<img src="https://img.shields.io/badge/AWS-Cloud%20Architecture-4F46E5?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Architecture" />
+<a href="https://in.linkedin.com/in/anshul-nautiyal-b9b8b6298">
+  <img src="https://img.shields.io/badge/Verified%20Certificates-View%20on%20LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="View verified certificates on LinkedIn" />
+</a>
 
-### Oracle
+</div>
 
-<img src="https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database Foundations" />
-<img src="https://img.shields.io/badge/Oracle-Java%20Foundations-6D28D9?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java Foundations" />
+| Provider | Certificate | Credential |
+| --- | --- | --- |
+| LinkedIn | Public certificates are linked through my LinkedIn profile | [View LinkedIn](https://in.linkedin.com/in/anshul-nautiyal-b9b8b6298) |
 
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Programming%20%26%20Systems-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" alt="NPTEL Programming and Systems" />
-<img src="https://img.shields.io/badge/NPTEL-AI%20%26%20Data%20Science-2563EB?style=for-the-badge&logo=google-scholar&logoColor=white" alt="NPTEL AI and Data Science" />
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Essentials" />
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Foundations-312E81?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Foundations" />
+Specific certificate names and credential URLs can be added here once the public credential links are available.
 
 ---
 
@@ -413,7 +408,7 @@ Open To:
 <a href="mailto:anshulnautiyal2006@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-anshulnautiyal2006%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://www.linkedin.com/in/anshul-nautiyal/">
+<a href="https://in.linkedin.com/in/anshul-nautiyal-b9b8b6298">
   <img src="https://img.shields.io/badge/LinkedIn-Anshul%20Nautiyal-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/ANSHUL-REAL">
