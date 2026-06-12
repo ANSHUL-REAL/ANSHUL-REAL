@@ -28,6 +28,11 @@
 <img src="https://img.shields.io/github/stars/ANSHUL-REAL?label=Stars&style=flat-square&color=475569&logo=github" alt="Stars" />
 <img src="https://img.shields.io/github/actions/workflow/status/ANSHUL-REAL/ANSHUL-REAL/snake.yml?branch=main&label=Snake&style=flat-square&color=475569" alt="Snake workflow status" />
 
+<br />
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2600&pause=900&color=CBD5E1&center=true&vCenter=true&width=620&lines=DSA+%E2%80%A2+Scalable+Applications+%E2%80%A2+System+Design;Backend+Architecture+%E2%80%A2+Clean+APIs+%E2%80%A2+Databases;AI+Products+%E2%80%A2+RAG+Systems+%E2%80%A2+Production+Thinking" alt="Current focus animation" />
+
 </div>
 
 ---
@@ -39,7 +44,7 @@ I am Anshul, a student developer based in Hyderabad. I am learning software engi
 Right now, I am focused on getting stronger at writing clean code, understanding how real products are built, and turning project ideas into working repositories that I can explain clearly.
 
 ```txt
-Currently learning  : Python, JavaScript, React, backend basics, AI/ML workflows
+Currently learning  : DSA, scalable applications, backend architecture, system design
 Currently building  : AI tools, RAG projects, security utilities, web apps
 Looking for         : Internships, hackathons, open-source work, useful collaborations
 Contact             : anshulnautiyal51@gmail.com
@@ -86,11 +91,13 @@ Contact             : anshulnautiyal51@gmail.com
 
 | Area | Focus |
 | --- | --- |
-| DSA | Building consistency and problem-solving speed |
-| Full stack | Connecting frontend, backend, databases, and deployment |
-| AI/ML | Making AI projects more practical and understandable |
+| DSA | Patterns, problem-solving speed, and interview-level consistency |
+| Scalable applications | Designing apps that can handle growth without becoming messy |
+| Backend architecture | APIs, databases, auth flows, caching, and clean service boundaries |
+| System design | Learning tradeoffs around reliability, latency, storage, and scaling |
+| AI/ML | Making AI projects more practical, testable, and understandable |
 | Documentation | Writing READMEs that explain the project without extra noise |
-| Product thinking | Building things people can actually use |
+| Product thinking | Building things people can actually use and trust |
 
 ---
 
