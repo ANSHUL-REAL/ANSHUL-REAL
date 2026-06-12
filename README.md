@@ -1,81 +1,98 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4c1d95,45:6d28d9,75:7c3aed,100:2563eb&text=Anshul%20Nautiyal&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Eager%20to%20learn%20and%20build%20%7C%20Wannabe%20SDE%20%7C%20AI%2FML%20Builder&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:09090b,30:312e81,65:6d28d9,100:2563eb&text=ANSHUL%20NAUTIYAL&fontColor=ffffff&fontSize=56&fontAlignY=35&desc=AI%20Builder%20%7C%20Student%20Developer%20%7C%20Future%20SDE&descAlignY=57&descSize=18&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+AI-powered+software+with+production+discipline;Designing+full-stack+products+that+scale;Turning+research%2C+automation%2C+and+systems+into+real+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=950&lines=Initializing+builder+mode...;Training+through+projects%2C+shipping+through+curiosity;AI%2FML+%2B+Full+Stack+%2B+Product+Thinking;Turning+raw+ideas+into+real+software" alt="Typing SVG" />
 </a>
 
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/Academic-Dronacharya%20College%20of%20Engineering-6D28D9?style=for-the-badge&logo=academia&logoColor=white" alt="Academic badge" />
-<img src="https://img.shields.io/badge/Focus-AI%2FML%20Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI ML badge" />
-<img src="https://img.shields.io/badge/Mindset-Product%20Engineering-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Product engineering badge" />
+<img src="https://img.shields.io/badge/Mode-Learning%20in%20Public-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Learning in public" />
+<img src="https://img.shields.io/badge/College-Dronacharya%20College%20of%20Engineering-4F46E5?style=for-the-badge&logo=academia&logoColor=white" alt="College" />
+<img src="https://img.shields.io/badge/Focus-AI%20Products%20%26%20SDE-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="Focus" />
 
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/Location-Gurugram%2C%20Haryana-312E81?style=flat-square&logo=googlemaps&logoColor=white" alt="Location badge" />
-<a href="https://github.com/ANSHUL-REAL/website">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio button" />
+<a href="mailto:anshulnautiyal51@gmail.com">
+  <img src="https://img.shields.io/badge/Email-anshulnautiyal51%40gmail.com-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://in.linkedin.com/in/anshul-nautiyal-b9b8b6298">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn button" />
-</a>
-<a href="mailto:anshulnautiyal2006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email button" />
+<a href="https://www.linkedin.com/in/anshul-nautiyal-42760236b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Anshul%20Nautiyal-2563EB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/ANSHUL-REAL">
-  <img src="https://img.shields.io/badge/GitHub-ANSHUL--REAL-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub button" />
+  <img src="https://img.shields.io/badge/GitHub-ANSHUL--REAL-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
+<img src="https://img.shields.io/badge/Location-Gurugram%2C%20Haryana-312E81?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=ANSHUL-REAL&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile views badge" />
-<img src="https://img.shields.io/github/followers/ANSHUL-REAL?label=Followers&style=flat-square&color=6d28d9&logo=github" alt="Followers badge" />
-<img src="https://img.shields.io/github/stars/ANSHUL-REAL?label=Stars&style=flat-square&color=4f46e5&logo=github" alt="Stars badge" />
-<img src="https://img.shields.io/github/actions/workflow/status/ANSHUL-REAL/ANSHUL-REAL/snake.yml?branch=main&label=Snake%20Animation&style=flat-square&color=7c3aed" alt="Snake animation workflow status" />
+<img src="https://komarev.com/ghpvc/?username=ANSHUL-REAL&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/ANSHUL-REAL?label=Followers&style=flat-square&color=6d28d9&logo=github" alt="Followers" />
+<img src="https://img.shields.io/github/stars/ANSHUL-REAL?label=Stars&style=flat-square&color=4f46e5&logo=github" alt="Stars" />
+<img src="https://img.shields.io/github/actions/workflow/status/ANSHUL-REAL/ANSHUL-REAL/snake.yml?branch=main&label=Snake%20Animation&style=flat-square&color=7c3aed" alt="Snake workflow" />
 
 </div>
 
 ---
 
-## About
+## Mission Console
 
-I am **Anshul Nautiyal**, a Dronacharya College of Engineering student who is **eager to learn and build** while growing toward a strong software development engineering career. I work across **AI/ML systems**, **full-stack product development**, and **automation-first engineering**, with a focus on practical projects that solve real problems.
+```yaml
+identity:
+  name: "Anshul Nautiyal"
+  handle: "ANSHUL-REAL"
+  role: "Student Developer | AI/ML Builder | Future SDE"
+  email: "anshulnautiyal51@gmail.com"
+  linkedin: "linkedin.com/in/anshul-nautiyal-42760236b"
 
-My work sits at the intersection of intelligent applications and practical product engineering: retrieval systems, AI assistants, healthcare tools, developer platforms, security utilities, dashboards, and modern web experiences. I like taking ideas from first prototype to usable product, learning in public, and improving through real builds.
+operating_system:
+  mindset: "Learn deeply. Build visibly. Improve continuously."
+  current_stack: ["Python", "JavaScript", "React", "AI/ML", "Full Stack"]
+  active_direction: "AI products, developer tools, healthcare tech, security utilities"
+  open_to: ["Internships", "Hackathons", "Open Source", "Real-world project collaborations"]
+```
 
-**Open To**
-
-| Area | Interest |
-| --- | --- |
-| Software Engineering | Full-stack engineering, backend systems, product platforms |
-| AI/ML Engineering | RAG apps, LLM tools, intelligent automation, applied ML products |
-| Open Source | Developer tools, AI utilities, security-focused projects |
-| Collaboration | Internships, student projects, research engineering, hackathons, startup-style builds |
+I am building my software engineering path through real projects: AI assistants, RAG tools, healthcare-focused apps, security utilities, and full-stack product experiments. My goal is simple: keep learning fast, build things that work, and become the kind of engineer who can turn unclear ideas into reliable software.
 
 ---
 
-## Tech Stack
+## Build Signal
 
 <div align="center">
 
-### Languages
+| Channel | What I Am Building Toward |
+| --- | --- |
+| AI Engineering | RAG apps, intelligent assistants, practical ML workflows |
+| Full Stack | Useful products with clean UI, backend logic, and deployable structure |
+| Security | Safer browsing, URL risk detection, validation-first thinking |
+| Developer Tools | GitHub analysis, workflow helpers, experiments for builders |
+| Product Mindset | Projects that explain themselves and solve visible problems |
+
+</div>
+
+---
+
+## Tech Radar
+
+<div align="center">
+
+### Core Languages
 
 [![Languages](https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,html,css,md)](https://skillicons.dev)
 
-### Frontend
+### Product Layer
 
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,figma)](https://skillicons.dev)
 
-### Backend & Databases
+### Systems Layer
 
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,postgres,mongodb,mysql,sqlite)](https://skillicons.dev)
 
-### Cloud, DevOps & Tooling
+### Builder Tools
 
 [![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vercel,aws,firebase,supabase,postman,vscode)](https://skillicons.dev)
 
@@ -83,202 +100,139 @@ My work sits at the intersection of intelligent applications and practical produ
 
 ---
 
-## AI / ML Expertise
+## AI / ML Control Panel
 
-| Domain | Proficiency | Details |
+| Area | Signal | What I Practice |
 | --- | --- | --- |
-| Retrieval-Augmented Generation | Advanced | Search, document grounding, source rendering, relevance handling, answer generation workflows |
-| LLM Application Engineering | Advanced | Prompt systems, tool-driven flows, structured outputs, Streamlit and web-based AI interfaces |
-| Machine Learning Pipelines | Intermediate-Advanced | Data preparation, model evaluation, classification workflows, experimentation discipline |
-| NLP & Information Retrieval | Intermediate-Advanced | Text processing, semantic search patterns, ranking, knowledge retrieval experiences |
-| AI Product Engineering | Advanced | Translating model capabilities into polished user-facing products with measurable utility |
-| Responsible AI & Security | Intermediate | Input validation, source transparency, safe rendering, secure full-stack defaults |
+| RAG Systems | Strong interest | Retrieval, source-aware answers, document grounding, answer quality |
+| LLM Apps | Active building | Prompt flows, structured UI, safe rendering, useful automation |
+| ML Foundations | Growing | Classification, preprocessing, experiments, evaluation habits |
+| NLP | Growing | Text processing, relevance, ranking, search-style workflows |
+| AI Product UX | Active building | Making AI output inspectable, readable, and useful |
+| Responsible Engineering | Active building | Validation, transparency, defensive interface design |
 
 ---
 
-## Featured Projects
+## Project Deck
 
 <details open>
-<summary><b>CareCircle AI</b></summary>
+<summary><b>CareCircle AI</b> - Healthcare coordination with AI support</summary>
 
-An AI-assisted healthcare product focused on making care coordination, patient support, and intelligent health workflows more accessible through a modern software experience.
-
-| Attribute | Details |
+| Layer | Details |
 | --- | --- |
-| Stack | AI/ML, full-stack web engineering, modern product architecture |
-| Scale | Designed as a production-style healthcare assistant platform |
-| Performance | Structured for responsive user journeys and clear decision support |
-| Security | Healthcare-aware product surface with emphasis on trust and responsible handling |
-| Impact | Helps organize care workflows into a more guided and intelligent experience |
-| Repository | [ANSHUL-REAL/carecircle-ai](https://github.com/ANSHUL-REAL/carecircle-ai) |
-
-CareCircle AI reflects my interest in high-impact software: products where user experience, domain sensitivity, and intelligent automation must work together.
+| Problem | Healthcare workflows can feel scattered, confusing, and hard to coordinate. |
+| Build | An AI-assisted care product concept focused on clarity, guidance, and support. |
+| Tech | AI workflows, full-stack product engineering, healthcare-aware UX |
+| Impact | Shows how intelligent software can make care journeys more organized. |
+| Repo | [ANSHUL-REAL/carecircle-ai](https://github.com/ANSHUL-REAL/carecircle-ai) |
 
 </details>
 
 <details>
-<summary><b>Pulmora AI</b></summary>
+<summary><b>Pulmora AI</b> - Applied AI for health-focused decision support</summary>
 
-An AI-focused application in the healthcare and diagnostics space, built around intelligent analysis, clear interfaces, and practical decision support.
-
-| Attribute | Details |
+| Layer | Details |
 | --- | --- |
-| Stack | AI engineering, data-driven workflows, full-stack application development |
-| Scale | Built as a substantial applied AI project with real product scope |
-| Performance | Optimized for clear user flow and reliable AI-assisted output |
-| Security | Uses careful product boundaries for sensitive health-oriented use cases |
-| Impact | Demonstrates applied AI in a domain where clarity and trust matter |
-| Repository | [ANSHUL-REAL/pulmora-ai](https://github.com/ANSHUL-REAL/pulmora-ai) |
-
-Pulmora AI highlights my ability to work beyond toy models and design software around the actual experience of using intelligent systems.
+| Problem | Health-oriented apps need clear outputs, careful UX, and trustworthy flows. |
+| Build | A substantial AI application exploring diagnostic-style product thinking. |
+| Tech | AI engineering, data-driven workflows, full-stack development |
+| Impact | Demonstrates applied AI beyond toy examples. |
+| Repo | [ANSHUL-REAL/pulmora-ai](https://github.com/ANSHUL-REAL/pulmora-ai) |
 
 </details>
 
 <details>
-<summary><b>RAG-MART</b></summary>
+<summary><b>RAG-MART</b> - Grounded answers over knowledge sources</summary>
 
-A retrieval-augmented generation project for building grounded AI experiences over information sources, with emphasis on answers that remain connected to context.
-
-| Attribute | Details |
+| Layer | Details |
 | --- | --- |
-| Stack | Python, RAG architecture, retrieval pipelines, AI application tooling |
-| Scale | Designed for document-aware and context-aware answer generation |
-| Performance | Prioritizes relevant retrieval, structured response flow, and dependable UX |
-| Security | Encourages source-aware output and transparent answer generation |
-| Impact | Turns raw knowledge into usable AI-assisted search and reasoning |
-| Repository | [ANSHUL-REAL/RAG-MART](https://github.com/ANSHUL-REAL/RAG-MART) |
-
-RAG-MART represents my focus on practical LLM systems where retrieval quality, interface clarity, and source transparency drive user trust.
+| Problem | AI answers are more useful when grounded in retrievable context. |
+| Build | A retrieval-augmented generation project for source-aware answers. |
+| Tech | Python, RAG pipelines, retrieval, AI app tooling |
+| Impact | Turns raw information into searchable, explainable AI responses. |
+| Repo | [ANSHUL-REAL/RAG-MART](https://github.com/ANSHUL-REAL/RAG-MART) |
 
 </details>
 
 <details>
-<summary><b>Voxora AI</b></summary>
+<summary><b>Voxora AI</b> - AI communication product experiment</summary>
 
-An AI product concept centered on intelligent communication, voice-oriented workflows, and modern interaction patterns.
-
-| Attribute | Details |
+| Layer | Details |
 | --- | --- |
-| Stack | AI product engineering, web application development, automation workflows |
-| Scale | Built as a polished AI application foundation |
-| Performance | Focused on smooth interaction loops and practical user outcomes |
-| Security | Designed with safe app boundaries and clean user flows |
-| Impact | Explores how AI can make communication more capable and efficient |
-| Repository | [ANSHUL-REAL/Voxora-AI](https://github.com/ANSHUL-REAL/Voxora-AI) |
-
-Voxora AI shows my interest in user-facing AI products that feel direct, useful, and engineered rather than experimental.
+| Problem | Communication products can become smarter with AI-assisted workflows. |
+| Build | An AI product concept around modern interaction and automation. |
+| Tech | AI product engineering, web app workflows, product UX |
+| Impact | Explores how AI can make communication faster and more capable. |
+| Repo | [ANSHUL-REAL/Voxora-AI](https://github.com/ANSHUL-REAL/Voxora-AI) |
 
 </details>
 
 <details>
-<summary><b>Malicious URL Detector</b></summary>
+<summary><b>Malicious URL Detector</b> - Security utility for safer browsing</summary>
 
-A cybersecurity-focused application for detecting suspicious or malicious URLs using software engineering and intelligent classification patterns.
-
-| Attribute | Details |
+| Layer | Details |
 | --- | --- |
-| Stack | Security tooling, machine learning concepts, web application development |
-| Scale | Built for practical URL risk analysis workflows |
-| Performance | Optimized around fast classification and readable results |
-| Security | Directly focused on malicious link detection and safer browsing decisions |
-| Impact | Helps users reason about link safety with a clear detection interface |
-| Repository | [ANSHUL-REAL/malicious-url-detector](https://github.com/ANSHUL-REAL/malicious-url-detector) |
-
-This project connects software engineering with security awareness, showing how applied ML and product UX can support safer digital behavior.
+| Problem | Suspicious links are difficult for users to judge quickly. |
+| Build | A URL risk detection project focused on readable, fast classification. |
+| Tech | Security tooling, classification concepts, web development |
+| Impact | Connects ML-style thinking with practical cybersecurity awareness. |
+| Repo | [ANSHUL-REAL/malicious-url-detector](https://github.com/ANSHUL-REAL/malicious-url-detector) |
 
 </details>
 
 <details>
-<summary><b>Research Agent</b></summary>
+<summary><b>Research Agent</b> - Source-aware research assistant</summary>
 
-A Streamlit-based RAG research assistant designed for source-backed answers, improved source rendering, and reliable handling of search relevance data.
-
-| Attribute | Details |
+| Layer | Details |
 | --- | --- |
-| Stack | Python, Streamlit, RAG, search APIs, test-driven fixes |
-| Scale | Built for interactive research workflows with source cards |
-| Performance | Handles relevance normalization and resilient result processing |
-| Security | Escapes rendered source fields and uses safer outbound link attributes |
-| Impact | Makes research answers easier to inspect, verify, and trust |
-| Repository | [ANSHUL-REAL/research_agent](https://github.com/ANSHUL-REAL/research_agent) |
-
-Research Agent demonstrates attention to the details that make AI tools reliable: clean rendering, safe links, regression tests, and graceful handling of imperfect API data.
+| Problem | Research tools need clean sources, safe rendering, and resilient results. |
+| Build | A Streamlit RAG assistant with safer source display and better score handling. |
+| Tech | Python, Streamlit, RAG, search APIs, regression testing |
+| Impact | Makes AI-assisted research easier to inspect and trust. |
+| Repo | [ANSHUL-REAL/research_agent](https://github.com/ANSHUL-REAL/research_agent) |
 
 </details>
 
 <details>
-<summary><b>Gitlyze</b></summary>
+<summary><b>Gitlyze</b> - Developer intelligence for GitHub workflows</summary>
 
-A developer-oriented project built around repository intelligence, GitHub analysis, and engineering workflow visibility.
-
-| Attribute | Details |
+| Layer | Details |
 | --- | --- |
-| Stack | GitHub workflows, developer tooling, analytics-oriented software |
-| Scale | Designed for engineering insight and repository understanding |
-| Performance | Focused on quick interpretation of development signals |
-| Security | Uses repository-aware workflows with clear boundaries |
-| Impact | Helps turn codebase activity into useful developer context |
-| Repository | [ANSHUL-REAL/gitlyze](https://github.com/ANSHUL-REAL/gitlyze) |
-
-Gitlyze reflects my interest in building tools for engineers, especially products that reduce friction around understanding code and collaboration.
+| Problem | Developers need quick ways to understand repositories and activity. |
+| Build | A repo intelligence experiment for engineering workflow visibility. |
+| Tech | GitHub workflows, developer tools, analytics-oriented design |
+| Impact | Turns repository activity into useful builder context. |
+| Repo | [ANSHUL-REAL/gitlyze](https://github.com/ANSHUL-REAL/gitlyze) |
 
 </details>
 
 <details>
-<summary><b>FlowLang</b></summary>
+<summary><b>FlowLang</b> - Language and workflow experiment</summary>
 
-A language and tooling project exploring structured workflows, programming concepts, and developer-facing abstractions.
-
-| Attribute | Details |
+| Layer | Details |
 | --- | --- |
-| Stack | Language design concepts, developer tooling, software systems thinking |
-| Scale | Experimental system for exploring flow-oriented programming ideas |
-| Performance | Built with attention to clarity and structured execution |
-| Security | Encourages explicit behavior and controlled language design |
-| Impact | Demonstrates curiosity for compilers, tools, and engineering foundations |
-| Repository | [ANSHUL-REAL/FlowLang](https://github.com/ANSHUL-REAL/FlowLang) |
-
-FlowLang shows the systems side of my engineering mindset: not just building apps, but exploring how tools and abstractions shape the way developers think.
+| Problem | Programming tools shape how developers think and build. |
+| Build | A language/tooling experiment around structured workflows. |
+| Tech | Language design concepts, systems thinking, developer tooling |
+| Impact | Shows curiosity for the foundations behind software creation. |
+| Repo | [ANSHUL-REAL/FlowLang](https://github.com/ANSHUL-REAL/FlowLang) |
 
 </details>
 
 ---
 
-## Experience
+## Experience Log
 
 ### Student Developer & AI/ML Builder
 **Independent Projects, Open Source, and Product Engineering**  
 **2025 - Present**
 
-I build end-to-end software projects across AI assistants, healthcare applications, cybersecurity utilities, RAG systems, and developer tools. My work emphasizes practical learning, clean implementation, readable documentation, strong GitHub presentation, and the ability to take ideas from early concept to usable implementation.
+- Building AI and full-stack projects across healthcare, security, research, and developer tooling.
+- Practicing clean documentation, reliable implementation, and visible GitHub presentation.
+- Learning through project depth: from UI and backend logic to AI workflows and validation.
+- Improving toward software engineering internships, hackathons, and real-world product work.
 
-**Scope of Work**
-
-- Build AI-powered applications using retrieval, search, classification, and LLM-driven workflows.
-- Design full-stack product experiences with modern frontend and backend engineering practices.
-- Implement safer rendering, source transparency, validation, and regression testing for AI apps.
-- Explore developer tooling, repository intelligence, workflow automation, and product analytics.
-- Maintain GitHub projects with clear repositories, readable documentation, and recruiter-friendly presentation.
-
-**Skills Tags**
-
-`Software Engineering` `AI/ML` `RAG` `Full Stack Development` `Python` `React` `Product Engineering` `GitHub` `Security` `Developer Tools`
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-| --- | --- |
-| AI Product Builder | Built multiple AI-first applications across healthcare, research, communication, and knowledge retrieval |
-| Full-Stack Portfolio | Maintains public GitHub repositories spanning frontend, backend, AI, security, and developer tooling |
-| RAG Engineering | Developed source-aware research and retrieval systems with emphasis on trustworthy output |
-| Security-Oriented Builder | Created malicious URL detection work focused on safer user decisions |
-| Engineering Presentation | Uses GitHub as a professional portfolio for product, code, and technical growth |
-
-</div>
+`AI/ML` `Full Stack` `Python` `React` `RAG` `Security` `GitHub` `Product Thinking` `Student Builder`
 
 ---
 
@@ -286,17 +240,16 @@ I build end-to-end software projects across AI assistants, healthcare applicatio
 
 <div align="center">
 
-<a href="https://in.linkedin.com/in/anshul-nautiyal-b9b8b6298">
-  <img src="https://img.shields.io/badge/Verified%20Certificates-View%20on%20LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="View verified certificates on LinkedIn" />
+<a href="https://www.linkedin.com/in/anshul-nautiyal-42760236b/">
+  <img src="https://img.shields.io/badge/Certificates-View%20on%20LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="View certificates on LinkedIn" />
 </a>
 
 </div>
 
-| Provider | Certificate | Credential |
-| --- | --- | --- |
-| LinkedIn | Public certificates are linked through my LinkedIn profile | [View LinkedIn](https://in.linkedin.com/in/anshul-nautiyal-b9b8b6298) |
-
-Specific certificate names and credential URLs can be added here once the public credential links are available.
+| Source | Details |
+| --- | --- |
+| LinkedIn | Real certifications and credentials should be viewed from my LinkedIn profile. |
+| Profile | [linkedin.com/in/anshul-nautiyal-42760236b](https://www.linkedin.com/in/anshul-nautiyal-42760236b/) |
 
 ---
 
@@ -305,16 +258,16 @@ Specific certificate names and credential URLs can be added here once the public
 <div align="center">
 
 <a href="https://leetcode.com/anshulnautiyal2006/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 <a href="https://www.geeksforgeeks.org/user/anshulnautiyal2006/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks profile" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
 </a>
 <a href="https://www.hackerrank.com/anshulnautiyal2006">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank profile" />
+  <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
 </a>
 <a href="https://www.codechef.com/users/anshulnautiyal2006">
-  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile" />
+  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
 </a>
 
 </div>
@@ -326,7 +279,7 @@ Specific certificate names and credential URLs can be added here once the public
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=ANSHUL-REAL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB" alt="GitHub stats" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=ANSHUL-REAL&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub streak stats" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=ANSHUL-REAL&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub streak" />
 
 <br />
 <br />
@@ -337,7 +290,7 @@ Specific certificate names and credential URLs can be added here once the public
 
 ---
 
-## GitHub Trophies
+## Trophy Rack
 
 <div align="center">
 
@@ -347,56 +300,50 @@ Specific certificate names and credential URLs can be added here once the public
 
 ---
 
-## Contribution Activity
+## Contribution Pulse
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ANSHUL-REAL&bg_color=0D1117&color=A78BFA&line=7C3AED&point=E0E7FF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ANSHUL-REAL&bg_color=0D1117&color=A78BFA&line=7C3AED&point=E0E7FF&area=true&hide_border=true" alt="Contribution graph" />
 
 </div>
 
 ---
 
-## Contribution Snake
+## Moving Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANSHUL-REAL/ANSHUL-REAL/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ANSHUL-REAL/ANSHUL-REAL/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ANSHUL-REAL/ANSHUL-REAL/output/github-contribution-grid-snake.svg" />
+  <img alt="Moving GitHub contribution snake" src="https://raw.githubusercontent.com/ANSHUL-REAL/ANSHUL-REAL/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
 ---
 
-## Current Focus
+## Current Quest
 
 ```yaml
-Learning:
-  - Advanced AI engineering patterns
-  - Scalable backend architecture
-  - Cloud-native product deployment
-  - Secure full-stack development
+now_learning:
+  - Advanced Python and JavaScript project structure
+  - AI/ML product workflows
+  - Full-stack deployment habits
+  - Cleaner GitHub documentation
 
-Building:
-  - AI-powered healthcare applications
-  - Retrieval-augmented generation tools
-  - Developer productivity systems
-  - Cybersecurity-focused utilities
+now_building:
+  - AI assistants
+  - RAG tools
+  - Healthcare tech experiments
+  - Security utilities
 
-Exploring:
-  - Agentic workflows
-  - Multimodal AI products
-  - Repository intelligence
-  - Production-grade LLM applications
-
-Open To:
-  - Software engineering internships
-  - AI/ML engineering roles
-  - Open-source collaboration
-  - Product-focused hackathons
+next_targets:
+  - Stronger DSA consistency
+  - Better backend architecture
+  - More polished deployed projects
+  - Internship-ready engineering portfolio
 ```
 
 ---
@@ -405,27 +352,24 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:anshulnautiyal2006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-anshulnautiyal2006%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<a href="mailto:anshulnautiyal51@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-anshulnautiyal51%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://in.linkedin.com/in/anshul-nautiyal-b9b8b6298">
+<a href="https://www.linkedin.com/in/anshul-nautiyal-42760236b/">
   <img src="https://img.shields.io/badge/LinkedIn-Anshul%20Nautiyal-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/ANSHUL-REAL">
   <img src="https://img.shields.io/badge/GitHub-ANSHUL--REAL-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://github.com/ANSHUL-REAL/website">
-  <img src="https://img.shields.io/badge/Portfolio-Engineering%20Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
 
-</div>
+<br />
+<br />
 
----
+<b>Building the future one practical project at a time.</b>
 
-<div align="center">
+<br />
+<br />
 
-**Engineering intelligent products with clarity, reliability, and ambition.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:2563eb,45:6d28d9,100:4c1d95" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=145&section=footer&color=0:2563eb,45:6d28d9,100:09090b" />
 
 </div>
