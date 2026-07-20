@@ -56,14 +56,15 @@ Contact             : anshulnautiyal51@gmail.com
 
 | Project | What it is | Repo |
 | --- | --- | --- |
-| CareCircle AI | AI-focused healthcare support project | [carecircle-ai](https://github.com/ANSHUL-REAL/carecircle-ai) |
-| Pulmora AI | Health-tech AI project experiment | [pulmora-ai](https://github.com/ANSHUL-REAL/pulmora-ai) |
-| RAG-MART | Retrieval-augmented generation project | [RAG-MART](https://github.com/ANSHUL-REAL/RAG-MART) |
-| Voxora AI | AI communication/product experiment | [Voxora-AI](https://github.com/ANSHUL-REAL/Voxora-AI) |
+| CareCircle AI | Blood-coordination platform with cloud workflows, donor intelligence, and human-controlled automation | [carecircle-ai](https://github.com/ANSHUL-REAL/carecircle-ai) |
+| Gitlyze | Web app that analyzes public JavaScript repositories and produces source-backed code-quality reports | [gitlyze](https://github.com/ANSHUL-REAL/gitlyze) |
+| Pulmora AI | Educational chest X-ray analysis app with PyTorch inference and Grad-CAM explainability | [pulmora-ai](https://github.com/ANSHUL-REAL/pulmora-ai) |
+| Research Agent | Source-aware AI research copilot with web retrieval, semantic search, and citations | [research_agent](https://github.com/ANSHUL-REAL/research_agent) |
+| OnChainIn | Event operations platform with Cardano-verified attendance and on-chain certificates | [OnChainIn](https://github.com/ANSHUL-REAL/OnChainIn) |
+| NotSudo Advisor | Dependency exploitability scanner that checks reachability and drafts evidence-backed remediation PRs | [notsudo-advisor](https://github.com/ashokDevs/notsudo-advisor) |
+| Voxora AI | AI communication and product experiment | [Voxora-AI](https://github.com/ANSHUL-REAL/Voxora-AI) |
 | Malicious URL Detector | Security tool for checking suspicious links | [malicious-url-detector](https://github.com/ANSHUL-REAL/malicious-url-detector) |
-| Research Agent | Source-aware research assistant | [research_agent](https://github.com/ANSHUL-REAL/research_agent) |
-| Gitlyze | GitHub/repository analysis experiment | [gitlyze](https://github.com/ANSHUL-REAL/gitlyze) |
-| FlowLang | Programming language/tooling experiment | [FlowLang](https://github.com/ANSHUL-REAL/FlowLang) |
+| FlowLang | Programming language and tooling experiment | [FlowLang](https://github.com/ANSHUL-REAL/FlowLang) |
 
 ---
 
