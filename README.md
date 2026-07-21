@@ -43,6 +43,8 @@ I am Anshul, a student developer based in Hyderabad. I am learning software engi
 
 Right now, I am focused on getting stronger at writing clean code, understanding how real products are built, and turning project ideas into working repositories that I can explain clearly.
 
+Currently building: **[NotSudo Advisor](https://github.com/ashokDevs/notsudo-advisor)** — a dependency exploitability advisor that combines OSV data with code reachability analysis to prioritize real risk.
+
 ```txt
 Currently learning  : DSA, scalable applications, backend architecture, system design
 Currently building  : AI tools, RAG projects, security utilities, web apps
