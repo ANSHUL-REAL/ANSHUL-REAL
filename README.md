@@ -112,19 +112,21 @@ I keep my certificates and credentials updated on LinkedIn:
 
 ---
 
-## GitHub Stats
+## GitHub Overview
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ANSHUL-REAL&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=93c5fd&icon_color=93c5fd&text_color=cbd5e1" alt="GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ANSHUL-REAL&theme=github-dark-blue&hide_border=true&background=0d1117&ring=93c5fd&fire=93c5fd&currStreakLabel=93c5fd" alt="GitHub streak" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ANSHUL-REAL&theme=github_dark" alt="GitHub statistics" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ANSHUL-REAL&theme=github_dark" alt="Repositories by language" />
 
 <br />
 <br />
 
-<img width="620" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANSHUL-REAL&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=93c5fd&text_color=cbd5e1" alt="Top languages" />
+<img width="620" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ANSHUL-REAL&theme=github_dark" alt="Most-used commit languages" />
 
 </div>
+
+> Your actual contribution streak is shown by GitHub's native contribution calendar on this profile.
 
 ---
 
