@@ -166,7 +166,7 @@ I keep my certificates and credentials updated on LinkedIn:
 <br />
 <br />
 
-Learning, building, and improving one project at a time.
+Learning, building, and improving one project at a time. 🚀
 
 <br />
 <br />
