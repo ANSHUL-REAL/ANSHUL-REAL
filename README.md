@@ -39,9 +39,9 @@
 
 ## 👋 About me
 
-I am Anshul, a student developer based in Hyderabad. I am learning software engineering by building projects in AI, full-stack development, security, and developer tooling.
+Hi, I’m Anshul — a student developer from Hyderabad who turns curiosity, coffee, and a healthy amount of `console.log` into software. I build projects in AI, full-stack development, security, and developer tooling.
 
-Right now, I am focused on getting stronger at writing clean code, understanding how real products are built, and turning project ideas into working repositories that I can explain clearly.
+Right now, I’m getting better at clean code, understanding how real products are built, and turning “this would be a cool idea” into something that actually runs.
 
 Currently building: **[NotSudo Advisor](https://github.com/ashokDevs/notsudo-advisor)** — a dependency exploitability advisor that combines OSV data with code reachability analysis to prioritize real risk.
 
@@ -51,6 +51,14 @@ Currently building  : AI tools, RAG projects, security utilities, web apps
 Looking for         : Internships, hackathons, open-source work, useful collaborations
 Contact             : anshulnautiyal51@gmail.com
 ```
+
+---
+
+## 🧃 Developer fuel
+
+- I read deployment logs like mystery novels: the bug is always hiding in the final chapter.
+- My most trusted teammate is `git diff`; it remembers what I forgot five minutes ago.
+- If something works on the first try, I test it again. Respectfully.
 
 ---
 
